@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\bin\Debug\net10.0\ConsoleProjects.exe
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\bin\Debug\net10.0\ConsoleProjects.deps.json
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\bin\Debug\net10.0\ConsoleProjects.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\bin\Debug\net10.0\ConsoleProjects.dll
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\bin\Debug\net10.0\ConsoleProjects.pdb
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net10.0\ConsoleProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net10.0\ConsoleProjects.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net10.0\ConsoleProjects.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net10.0\ConsoleProjects.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net10.0\ConsoleProjects.dll
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net10.0\refint\ConsoleProjects.dll
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net10.0\ConsoleProjects.pdb
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net10.0\ConsoleProjects.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net10.0\ref\ConsoleProjects.dll

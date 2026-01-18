@@ -1,0 +1,43 @@
+/home/anupam/Desktop/projects /prg assignment/ConsoleProjects/ConsoleProjects/bin/Debug/net9.0/ConsoleProjects
+/home/anupam/Desktop/projects /prg assignment/ConsoleProjects/ConsoleProjects/bin/Debug/net9.0/ConsoleProjects.deps.json
+/home/anupam/Desktop/projects /prg assignment/ConsoleProjects/ConsoleProjects/bin/Debug/net9.0/ConsoleProjects.runtimeconfig.json
+/home/anupam/Desktop/projects /prg assignment/ConsoleProjects/ConsoleProjects/bin/Debug/net9.0/ConsoleProjects.dll
+/home/anupam/Desktop/projects /prg assignment/ConsoleProjects/ConsoleProjects/bin/Debug/net9.0/ConsoleProjects.pdb
+/home/anupam/Desktop/projects /prg assignment/ConsoleProjects/ConsoleProjects/obj/Debug/net9.0/ConsoleProjects.GeneratedMSBuildEditorConfig.editorconfig
+/home/anupam/Desktop/projects /prg assignment/ConsoleProjects/ConsoleProjects/obj/Debug/net9.0/ConsoleProjects.AssemblyInfoInputs.cache
+/home/anupam/Desktop/projects /prg assignment/ConsoleProjects/ConsoleProjects/obj/Debug/net9.0/ConsoleProjects.AssemblyInfo.cs
+/home/anupam/Desktop/projects /prg assignment/ConsoleProjects/ConsoleProjects/obj/Debug/net9.0/ConsoleProjects.csproj.CoreCompileInputs.cache
+/home/anupam/Desktop/projects /prg assignment/ConsoleProjects/ConsoleProjects/obj/Debug/net9.0/ConsoleProjects.sourcelink.json
+/home/anupam/Desktop/projects /prg assignment/ConsoleProjects/ConsoleProjects/obj/Debug/net9.0/ConsoleProjects.dll
+/home/anupam/Desktop/projects /prg assignment/ConsoleProjects/ConsoleProjects/obj/Debug/net9.0/refint/ConsoleProjects.dll
+/home/anupam/Desktop/projects /prg assignment/ConsoleProjects/ConsoleProjects/obj/Debug/net9.0/ConsoleProjects.pdb
+/home/anupam/Desktop/projects /prg assignment/ConsoleProjects/ConsoleProjects/obj/Debug/net9.0/ConsoleProjects.genruntimeconfig.cache
+/home/anupam/Desktop/projects /prg assignment/ConsoleProjects/ConsoleProjects/obj/Debug/net9.0/ref/ConsoleProjects.dll
+/home/anupam/Desktop/ConsoleProjects-AP/ConsoleProjects/bin/Debug/net9.0/ConsoleProjects
+/home/anupam/Desktop/ConsoleProjects-AP/ConsoleProjects/bin/Debug/net9.0/ConsoleProjects.deps.json
+/home/anupam/Desktop/ConsoleProjects-AP/ConsoleProjects/bin/Debug/net9.0/ConsoleProjects.runtimeconfig.json
+/home/anupam/Desktop/ConsoleProjects-AP/ConsoleProjects/bin/Debug/net9.0/ConsoleProjects.dll
+/home/anupam/Desktop/ConsoleProjects-AP/ConsoleProjects/bin/Debug/net9.0/ConsoleProjects.pdb
+/home/anupam/Desktop/ConsoleProjects-AP/ConsoleProjects/obj/Debug/net9.0/ConsoleProjects.GeneratedMSBuildEditorConfig.editorconfig
+/home/anupam/Desktop/ConsoleProjects-AP/ConsoleProjects/obj/Debug/net9.0/ConsoleProjects.AssemblyInfoInputs.cache
+/home/anupam/Desktop/ConsoleProjects-AP/ConsoleProjects/obj/Debug/net9.0/ConsoleProjects.AssemblyInfo.cs
+/home/anupam/Desktop/ConsoleProjects-AP/ConsoleProjects/obj/Debug/net9.0/ConsoleProjects.csproj.CoreCompileInputs.cache
+/home/anupam/Desktop/ConsoleProjects-AP/ConsoleProjects/obj/Debug/net9.0/ConsoleProjects.dll
+/home/anupam/Desktop/ConsoleProjects-AP/ConsoleProjects/obj/Debug/net9.0/refint/ConsoleProjects.dll
+/home/anupam/Desktop/ConsoleProjects-AP/ConsoleProjects/obj/Debug/net9.0/ConsoleProjects.pdb
+/home/anupam/Desktop/ConsoleProjects-AP/ConsoleProjects/obj/Debug/net9.0/ConsoleProjects.genruntimeconfig.cache
+/home/anupam/Desktop/ConsoleProjects-AP/ConsoleProjects/obj/Debug/net9.0/ref/ConsoleProjects.dll
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\bin\Debug\net9.0\ConsoleProjects.exe
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\bin\Debug\net9.0\ConsoleProjects.deps.json
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\bin\Debug\net9.0\ConsoleProjects.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\bin\Debug\net9.0\ConsoleProjects.dll
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\bin\Debug\net9.0\ConsoleProjects.pdb
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net9.0\ConsoleProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net9.0\ConsoleProjects.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net9.0\ConsoleProjects.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net9.0\ConsoleProjects.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net9.0\ConsoleProjects.dll
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net9.0\refint\ConsoleProjects.dll
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net9.0\ConsoleProjects.pdb
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net9.0\ConsoleProjects.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Desktop\PRG WEEK 2\Prg320-assignments\ConsoleProjects\obj\Debug\net9.0\ref\ConsoleProjects.dll
