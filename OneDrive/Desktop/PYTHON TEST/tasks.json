@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Class",
+    "due_at": "2026-01-22T16:15",
+    "priority": 2,
+    "completed": true,
+    "remind_before_minutes": 1,
+    "reminder_sent": false
+  },
+  {
+    "id": 2,
+    "title": "Game",
+    "due_at": "2026-01-20T06:00",
+    "priority": 1,
+    "completed": false,
+    "remind_before_minutes": 60,
+    "reminder_sent": false
+  },
+  {
+    "id": 3,
+    "title": "Party",
+    "due_at": "2026-01-23T10:30",
+    "priority": 3,
+    "completed": true,
+    "remind_before_minutes": 1,
+    "reminder_sent": true
+  }
+]
